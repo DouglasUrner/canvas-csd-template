@@ -3,8 +3,9 @@
 # Git stuff
 git-curr-branch:
 git-prev-branch: 
-# Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson:
+# Link(s) to the external lesson(s) (e.g., a lesson on Code.org or TestOut).
+lesson1:
+lesson2:
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
 outcome:
